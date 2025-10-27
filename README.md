@@ -97,4 +97,4 @@ Run all tests with:
 
 **Lebogang Nkosi**
 Android Engineer • Kotlin Enthusiast
-📧 [[YourEmail@example.com](mailto:nkosilebogang95@gmail.com)] • 🌐 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/lebogangnkosi/))
+🌐 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/lebogangnkosi/))
