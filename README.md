@@ -7,7 +7,7 @@ Built entirely with **Jetpack Compose**, it demonstrates clean architecture, rea
 
 ## 📱 Screenshots
 
-| Request Location                              | Weather Display                            | Error State                            | Error State                            | Error State                            | 
+| Request Location                              | Persmission Display                            | Loading Screen                            | Weather Screen                            | Error Screen                            | 
 | --------------------------------------------- | ------------------------------------------ | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 | ![Request Location](https://github.com/lbnkosi/compose-weatherapp/blob/main/Screenshot_20251026_195408.png) | ![Permission Screen](https://github.com/lbnkosi/compose-weatherapp/blob/main/Screenshot_20251026_195420.png) | ![Loading Screen](https://github.com/lbnkosi/compose-weatherapp/blob/main/Screenshot_20251026_194745.png) | ![Weather Screen](https://github.com/lbnkosi/compose-weatherapp/blob/main/Screenshot_20251026_194655.png) | ![Error Screen](https://github.com/lbnkosi/compose-weatherapp/blob/main/Screenshot_20251026_194635.png) | 
 
