@@ -1,11 +1,11 @@
-# 🌦️ Compose Weather App
+# Compose Weather App
 
 **Compose Weather App** is a modern Android application that displays current weather information using the [OpenWeatherMap API](https://openweathermap.org/).
 Built entirely with **Jetpack Compose**, it demonstrates clean architecture, reactive data handling, and testable design patterns following Google’s recommended Android development best practices.
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 | Request Location                              | Persmission Display                            | Loading Screen                            | Weather Screen                            | Error Screen                            | 
 | --------------------------------------------- | ------------------------------------------ | -------------------------------------- | -------------------------------------- | -------------------------------------- |
@@ -13,7 +13,7 @@ Built entirely with **Jetpack Compose**, it demonstrates clean architecture, rea
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The app follows **Clean Architecture** combined with **MVVM (Model–View–ViewModel)** to ensure the codebase is **maintainable, testable, and extensible**.
 
@@ -25,7 +25,7 @@ The app follows **Clean Architecture** combined with **MVVM (Model–View–View
 
 ---
 
-## 🧩 Notable Libraries & Technologies
+## Notable Libraries & Technologies
 
 | Category                 | Library                                                                                    | Purpose                               |
 | ------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------- |
@@ -38,7 +38,7 @@ The app follows **Clean Architecture** combined with **MVVM (Model–View–View
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -60,12 +60,12 @@ The app follows **Clean Architecture** combined with **MVVM (Model–View–View
 
 ---
 
-## 🧠 Developer Notes
+## Developer Notes
 
 This project was intentionally kept **simple and focused** due to time constraints.
 However, several enhancements were considered during design to demonstrate future scalability.
 
-### 🧩 Future Improvements
+### Future Improvements
 
 * **Offline Mode:**
   Introduce a local cache using **Room Database** to persist 7-day forecasts for offline viewing.
@@ -78,7 +78,7 @@ However, several enhancements were considered during design to demonstrate futur
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Unit tests cover:
 
@@ -95,7 +95,7 @@ Run all tests with:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Lebogang Nkosi**
 Android Engineer • Kotlin Enthusiast
