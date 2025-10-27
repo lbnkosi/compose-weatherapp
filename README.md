@@ -5,6 +5,14 @@ Built entirely with **Jetpack Compose**, it demonstrates clean architecture, rea
 
 ---
 
+## 📱 Screenshots
+
+| Request Location                              | Weather Display                            | Error State                            |
+| --------------------------------------------- | ------------------------------------------ | -------------------------------------- |
+| ![Request Location]([screenshots/location.png](https://github.com/lbnkosi/compose-weatherapp/blob/main/Screenshot_20251026_195408.png)) | ![Weather Screen](screenshots/weather.png) | ![Error Screen](screenshots/error.png) |
+
+---
+
 ## 🏗️ Architecture
 
 The app follows **Clean Architecture** combined with **MVVM (Model–View–ViewModel)** to ensure the codebase is **maintainable, testable, and extensible**.
@@ -84,14 +92,6 @@ Run all tests with:
 ```bash
 ./gradlew test
 ```
-
----
-
-## 📱 Screenshots
-
-| Request Location                              | Weather Display                            | Error State                            |
-| --------------------------------------------- | ------------------------------------------ | -------------------------------------- |
-| ![Request Location](screenshots/location.png) | ![Weather Screen](screenshots/weather.png) | ![Error Screen](screenshots/error.png) |
 
 ---
 
