@@ -27,6 +27,18 @@ androidConstraintLayoutCompose = "1.1.1"
 kotlinxCoroutinesAndroid = "1.10.2"
 kotlinxCoroutinesCore = "1.10.2"
 
+androidxCoreSplashscreen = "1.0.1"
+appcompat = "1.7.1"
+
+lottie = "4.2.2"
+
+play-services-location = "21.2.0"
+
+mockk = "1.13.12"
+coroutines-test = "1.8.1"
+turbine = "1.1.0"
+
+
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
@@ -72,6 +84,20 @@ androidx-compose-ui-tooling-preview = { group = "androidx.compose.ui", name = "u
 
 kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version.ref = "kotlinxCoroutinesAndroid" }
 kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinxCoroutinesCore" }
+
+androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version.ref = "androidxCoreSplashscreen" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+
+lottie-compose = { group = "com.airbnb.android", name = "lottie-compose", version.ref = "lottie" }
+
+google-play-services-location = { module = "com.google.android.gms:play-services-location", version.ref = "play-services-location" }
+
+coil-compose = { module = "io.coil-kt:coil-compose", version = "2.7.0" }
+
+mockk = { module = "io.mockk:mockk", version.ref = "mockk" }
+coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "coroutines-test" }
+turbine = { module = "app.cash.turbine:turbine", version.ref = "turbine" }
+
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

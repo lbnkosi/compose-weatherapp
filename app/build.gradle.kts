@@ -60,6 +60,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.appcompat)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -102,4 +103,16 @@ dependencies {
     implementation(libs.androidx.compose.material3.windowSizeClass)
 
     implementation(libs.androidx.constraintlayout.compose)
+
+    implementation(libs.androidx.core.splashscreen)
+
+    implementation(libs.lottie.compose)
+
+    implementation(libs.google.play.services.location)
+
+    implementation(libs.coil.compose)
+
+    testImplementation(libs.mockk)
+    testImplementation(libs.coroutines.test)
+    testImplementation(libs.turbine)
 }
