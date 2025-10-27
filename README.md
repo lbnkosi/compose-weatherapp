@@ -56,8 +56,6 @@ The app follows **Clean Architecture** combined with **MVVM (Model–View–View
 
 4. Build and run the app on an emulator or physical device.
 
-> 💡 *Alternatively, you can download the latest APK [here](#) and install it directly.*
-
 ---
 
 ## Developer Notes
